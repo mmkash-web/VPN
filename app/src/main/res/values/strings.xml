@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NETBILL VPN</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="save_config">Save Config</string>
+    <string name="load_config">Load Config</string>
+    <string name="config_saved">Configuration saved successfully</string>
+    <string name="config_loaded">Configuration loaded successfully</string>
+    <string name="vpn_connected">VPN Connected</string>
+    <string name="vpn_disconnected">VPN Disconnected</string>
+    <string name="vpn_error">VPN Error</string>
+</resources>
